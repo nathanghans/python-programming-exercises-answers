@@ -18,4 +18,5 @@ for i in allnum:
 print(y)
 print(a)
 
+#print without brackets
 print(','.join(a))
